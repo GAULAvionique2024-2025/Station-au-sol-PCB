@@ -68,8 +68,8 @@
 	)
 	(attr through_hole)
 	(fp_circle
-		(center -8.5 -12.05)
-		(end -7 -12.05)
+		(center -8.0024 -11.3524)
+		(end -6.5024 -11.3524)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -79,8 +79,8 @@
 		(uuid "729d3b83-db2d-4ebc-af64-741f6bf28490")
 	)
 	(fp_circle
-		(center -8.45 -0.75)
-		(end -6.95 -0.75)
+		(center -7.9516 -1.3448)
+		(end -6.4516 -1.3448)
 		(stroke
 			(width 0.1)
 			(type default)

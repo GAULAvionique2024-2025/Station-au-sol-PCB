@@ -4808,7 +4808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SAS-Librarie-Empreinte:bornie_2position"
+		(property "Footprint" "SAS-Librarie-Empreinte:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 152.4 111.76 0)
 			(effects
 				(font
@@ -7476,7 +7476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SAS-Librarie-Empreinte:bornie_2position"
+		(property "Footprint" "SAS-Librarie-Empreinte:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 27.94 29.21 0)
 			(effects
 				(font
