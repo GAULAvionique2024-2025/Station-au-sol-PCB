@@ -3869,28 +3869,6 @@
 	)
 	(global_label "Fan2_RPM"
 		(shape input)
-		(at 158.75 49.53 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3e6ae01c-1f5c-4748-b88b-e85012df647c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.2903 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Fan1_RPM"
-		(shape input)
 		(at 158.75 52.07 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3899,7 +3877,7 @@
 			)
 			(justify left)
 		)
-		(uuid "48e18025-2782-427f-b2c5-740f645729bb")
+		(uuid "3c8502a3-6c4b-4e19-8c0a-d862b6732425")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 171.2903 52.07 0)
 			(effects
@@ -4501,6 +4479,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Fan1_RPM"
+		(shape input)
+		(at 158.75 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0f5da8b-7b16-4a9c-8c0a-84e11ace65b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.2903 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
