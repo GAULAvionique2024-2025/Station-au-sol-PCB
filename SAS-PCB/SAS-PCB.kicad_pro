@@ -549,11 +549,89 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DATASHEET-URL",
+          "name": "DATASHEET-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "IR-UL",
+          "name": "IR-UL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "IR-VDE",
+          "name": "IR-VDE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MOUNT",
+          "name": "MOUNT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PART-NUMBER",
+          "name": "PART-NUMBER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PINS",
+          "name": "PINS",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PITCH",
+          "name": "PITCH",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TYPE",
+          "name": "TYPE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "WIRE",
+          "name": "WIRE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "WORKING-VOLTAGE-UL",
+          "name": "WORKING-VOLTAGE-UL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "WORKING-VOLTAGE-VDE",
+          "name": "WORKING-VOLTAGE-VDE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
